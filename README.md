@@ -8,5 +8,5 @@ Contact me if you have problem : naifar.racem@gmail.com
 ## Architecture REST
 
 ## ScreenShot
-![Alt text](screen.gif) / ![](screen.gif)
+![Alt text](screen.gif)
 
